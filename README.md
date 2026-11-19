@@ -12,7 +12,7 @@ One image that sums up the world's news of Thursday 19 November 2026: the first 
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-The program copies `entry.png` (a 1024×1024 JPEG, 211,856 bytes) to `/output/entry.png`. Standard library only, no network, no randomness: two runs write the same bytes.
+The program copies `entry.png` (a 1024×1024 JPEG, 225,248 bytes) to `/output/entry.png`. Standard library only, no network, no randomness: two runs write the same bytes.
 
 ---
 
